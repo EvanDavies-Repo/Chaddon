@@ -8,7 +8,7 @@ Chaddon is a browser extension that detects an active tab’s url and connects y
 This project has been developed and maintained by [Michael Pierre](https://github.com/MPierre9), [Evan Davies](https://github.com/EmdaviesSeneca), [Geoff McCollam](https://github.com/GeoffMcCollam) and [Marco Beltempo](https://github.com/marcobeltempo)
  
 
-Chaddon is currently available in the Chrome Web Store. 
+Chaddon is currently [available in the Chrome Web Store.](https://chrome.google.com/webstore/detail/chaddon/lbobhgjcgpjmimnpddopjppnfkcgpmmg) 
 
 For now feel free to download the source code to test the extension locally or try the demo over at [app.chaddon.ca](http://app.chaddon.ca)
 
